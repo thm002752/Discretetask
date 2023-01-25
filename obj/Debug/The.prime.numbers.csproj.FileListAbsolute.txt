@@ -1,0 +1,8 @@
+C:\Users\Tiger\Desktop\The.prime.numbers\The.prime.numbers\bin\Debug\The.prime.numbers.exe.config
+C:\Users\Tiger\Desktop\The.prime.numbers\The.prime.numbers\bin\Debug\The.prime.numbers.exe
+C:\Users\Tiger\Desktop\The.prime.numbers\The.prime.numbers\bin\Debug\The.prime.numbers.pdb
+C:\Users\Tiger\Desktop\The.prime.numbers\The.prime.numbers\obj\Debug\The.prime.numbers.csproj.AssemblyReference.cache
+C:\Users\Tiger\Desktop\The.prime.numbers\The.prime.numbers\obj\Debug\The.prime.numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\Tiger\Desktop\The.prime.numbers\The.prime.numbers\obj\Debug\The.prime.numbers.csproj.CoreCompileInputs.cache
+C:\Users\Tiger\Desktop\The.prime.numbers\The.prime.numbers\obj\Debug\The.prime.numbers.exe
+C:\Users\Tiger\Desktop\The.prime.numbers\The.prime.numbers\obj\Debug\The.prime.numbers.pdb
